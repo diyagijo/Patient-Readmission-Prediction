@@ -1,2 +1,19 @@
 # AI-Powered Patient Readmission Prediction
-Live Demo (Streamlit App)
+Live Demo (Streamlit App):
+
+
+#  Overview
+Hospital readmissions are costly and often preventable. This project predicts the likelihood of a patient being readmitted within 30 days using machine learning (XGBoost) and provides explainable AI insights using SHAP.
+The system:
+Identifies patients at high risk of readmission.
+Explains why the prediction was made (top contributing factors).
+Provides GenAI-driven recommendations for reducing readmission.
+
+
+# Features
+End-to-End Pipeline – Data cleaning, feature engineering, model training, and evaluation.
+Explainable AI (XAI) – SHAP plots for global and local feature importance.
+Interactive Dashboard – Built with Streamlit for live predictions and risk visualization.
+GenAI Recommendations – Natural-language recommendations for healthcare professionals.
+
+# Project Structure
