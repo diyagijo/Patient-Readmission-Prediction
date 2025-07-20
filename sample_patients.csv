@@ -1,0 +1,12 @@
+race,gender,age,weight,admission_type_id,discharge_disposition_id,admission_source_id,time_in_hospital,payer_code,medical_specialty,num_lab_procedures,num_procedures,num_medications,number_outpatient,number_emergency,number_inpatient,diag_1,diag_2,diag_3,number_diagnoses,max_glu_serum,A1Cresult,metformin,repaglinide,nateglinide,chlorpropamide,glimepiride,acetohexamide,glipizide,glyburide,tolbutamide,pioglitazone,rosiglitazone,acarbose,miglitol,troglitazone,tolazamide,examide,citoglipton,insulin,glyburide-metformin,glipizide-metformin,glimepiride-pioglitazone,metformin-rosiglitazone,metformin-pioglitazone,change,diabetesMed,age_num
+Caucasian,Female,[80-90),,1,1,7,4,MC,,40,0,17,0,0,1,584,276,276,9,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Up,No,No,No,No,No,Ch,Yes,85
+AfricanAmerican,Male,[60-70),,1,1,7,5,MC,,29,3,22,0,0,0,786,427,401,7,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Steady,No,No,No,No,No,No,Yes,65
+Caucasian,Female,[70-80),,3,22,1,2,MC,Orthopedics-Reconstructive,26,2,29,2,0,1,733,496,250,5,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Up,No,No,No,No,No,Ch,Yes,75
+Caucasian,Male,[50-60),,3,18,1,5,,,43,3,34,0,0,1,440,996,433,9,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,55
+AfricanAmerican,Male,[70-80),,6,22,17,12,,Pulmonology,77,6,38,0,0,0,47,493,263,9,,,No,No,No,No,No,No,Up,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Ch,Yes,75
+Caucasian,Male,[50-60),,5,2,17,1,SP,,18,0,10,0,0,0,413,272,401,7,Norm,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,55
+AfricanAmerican,Male,[70-80),,1,1,7,3,,,37,0,7,0,0,0,8,250,401,5,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,75
+Hispanic,Female,[60-70),,1,1,6,4,UN,,51,5,18,0,0,0,410,414,250,5,,,Steady,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Steady,No,No,No,No,No,Ch,Yes,65
+Caucasian,Male,[50-60),,1,22,7,2,MC,InternalMedicine,44,0,29,0,0,5,435,496,786,7,,,Steady,No,No,No,Steady,No,No,No,No,No,No,No,No,No,No,No,No,Steady,No,No,No,No,No,Ch,Yes,55
+Hispanic,Male,[50-60),,2,18,1,8,,,52,2,21,0,0,2,250.7,585,997,8,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,55
+AfricanAmerican,Female,[40-50),,1,1,6,5,MD,Pulmonology,37,0,7,0,0,0,577,305,250,5,,,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,No,Steady,No,No,No,No,No,No,Yes,45
