@@ -29,8 +29,8 @@ GenAI Recommendations – Natural-language recommendations for healthcare profes
 ![Dashboard](screenshots/dashboard.png)
 
 ### SHAP Local Explanation
-![SHAP Local](screenshots/shap_local.png)
+![SHAP Local](screenshots/shap_local_explanation.png)
 
 ### prediction
-![SHAP Local](screenshots/prediction.png)
+![SHAP Local](screenshots/predictions.png)
 
