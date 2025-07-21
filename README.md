@@ -19,41 +19,17 @@ Provides GenAI-driven recommendations for reducing readmission.
 ## Project Structure
 
 
-Patient-Readmission-Prediction/
-│
-├── README.md                  # Complete project documentation
-├── requirements.txt           # List of dependencies
-├── app.py                     # Streamlit dashboard
-├── sample_patients.csv        # Sample cleaned test data
-│
-├── data/                      # Data folder
-│   ├── raw/                   # Raw dataset
-│   │   └── diabetic_data.csv
-│   ├── processed/             # Preprocessed and split data
-│       ├── train_X.csv
-│       ├── train_y.csv
-│       ├── test_X.csv
-│       └── test_y.csv
-│
-├── models/                    # Trained models and artifacts
-│   ├── xgb_readmit.pkl
-│   ├── preprocessor.pkl
-│   └── feature_names.pkl
-│
-├── notebooks/                 # Jupyter notebooks for analysis
-│   ├── 01_exploratory.ipynb
-│   ├── 02_feature_engineering.ipynb
-│   ├── 03_modeling.ipynb
-│   └── 04_shap_analysis.ipynb
-│
-├── src/                       # Source code
-│   ├── shap_utils.py          # SHAP visualization helper functions
-│   ├── genai.py               # GenAI recommendation logic
-│   └── utils.py               # Helper functions (if needed)
-│
-└── screenshots/               # Images for README
-    ├── dashboard.png
-    └── shap_local.png
+
+ **README.md**                 # Complete project documentation
+ **requirements.txt**           # List of dependencies
+ **app.py**                     # Streamlit dashboard
+ **sample_patients.csv**        # Sample cleaned test data
+**data**                   # Data folder
+**models**                   # Trained models and artifacts
+**notebooks**                 # Jupyter notebooks for analysis
+**src**                       # Source code
+**screenshots**               # Images for README
+ 
 
 
 
