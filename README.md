@@ -20,15 +20,15 @@ Provides GenAI-driven recommendations for reducing readmission.
 
 
 
- -**README.md**                 # Complete project documentation
- -**requirements.txt**           # List of dependencies
- -**app.py**                     # Streamlit dashboard
- -**sample_patients.csv**        # Sample cleaned test data
--**data**                   # Data folder
--**models**                   # Trained models and artifacts
--**notebooks**                 # Jupyter notebooks for analysis
--**src**                       # Source code
--**screenshots**               # Images for README
+ -**README.md**                  Complete project documentation
+ -**requirements.txt**           List of dependencies
+ -**app.py**                      Streamlit dashboard
+ -**sample_patients.csv**         Sample cleaned test data
+-**data**                    Data folder
+-**models**                    Trained models and artifacts
+-**notebooks**                  Jupyter notebooks for analysis
+-**src**                        Source code
+-**screenshots**                Images for README
  
 
 
