@@ -20,9 +20,20 @@ GenAI Recommendations – Natural-language recommendations for healthcare profes
 
 
 
+# Tech Stack
+Languages: Python (Pandas, NumPy)
+Machine Learning: XGBoost, Scikit-learn
+Explainability: SHAP
+Visualization: Matplotlib, Plotly
+Web App: Streamlit
+GenAI: GPT-based recommendations
+Version Control: Git/GitHub
 
 
-# screenshots
+
+
+
+# Screenshots
 
 
 ### Dashboard
