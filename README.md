@@ -17,3 +17,20 @@ Interactive Dashboard – Built with Streamlit for live predictions and risk vis
 GenAI Recommendations – Natural-language recommendations for healthcare professionals.
 
 # Project Structure
+
+
+
+
+
+# screenshots
+
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### SHAP Local Explanation
+![SHAP Local](screenshots/shap_local.png)
+
+### prediction
+![SHAP Local](screenshots/prediction.png)
+
