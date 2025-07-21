@@ -15,7 +15,7 @@ st.title(" AI-Powered Patient Readmission Prediction")
 
 @st.cache_resource
 def load_artifacts():
-    preprocessor = joblib.load("C:/Users/diyag/OneDrive/Pictures/Desktop/PROJECTS_IN/Patient Readmission Prediction/models/preprocessor.pkl")
+    preprocessor = joblib.load("models/preprocessor.pkl")
     model = joblib.load("C:/Users/diyag/OneDrive/Pictures/Desktop/PROJECTS_IN/Patient Readmission Prediction/models/xgb_readmit.pkl")
     feature_names = joblib.load("models/feature_names.pkl")
     return preprocessor, model, feature_names
